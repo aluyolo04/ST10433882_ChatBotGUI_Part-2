@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.Form1.resources
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.AssemblyInfo.cs
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\bin\Debug\net8.0-windows\CyberlinkGUI.exe
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\bin\Debug\net8.0-windows\CyberlinkGUI.deps.json
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\bin\Debug\net8.0-windows\CyberlinkGUI.runtimeconfig.json
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\bin\Debug\net8.0-windows\CyberlinkGUI.dll
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\bin\Debug\net8.0-windows\CyberlinkGUI.pdb
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.dll
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\refint\CyberlinkGUI.dll
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.pdb
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\CyberlinkGUI.genruntimeconfig.cache
+C:\Users\Student\source\repos\CyberlinkGUI\CyberlinkGUI\obj\Debug\net8.0-windows\ref\CyberlinkGUI.dll
