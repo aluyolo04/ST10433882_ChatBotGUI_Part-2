@@ -1,2 +1,0 @@
-# ST10433882_ChatBotGUI_Part 2
-PROG6221 POE Part 2
